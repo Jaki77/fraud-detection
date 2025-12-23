@@ -1,0 +1,25 @@
+# Core Data Science
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+xgboost
+lightgbm
+
+# Model Explainability
+shap
+
+# Utilities
+joblib
+tqdm
+jupyter
+
+# Testing
+pytest
